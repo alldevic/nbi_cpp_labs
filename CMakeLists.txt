@@ -3,4 +3,4 @@ project(nbi_cpp_labs)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(nbi_cpp_labs 1lab.cpp)
+add_executable(nbi_cpp_labs 2lab1.cpp)
